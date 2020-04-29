@@ -1,0 +1,41 @@
+.imgBrujo {
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+
+  .input {
+    border-radius: 25px;
+    padding: 20px;
+    width: 300px;
+    height: 10px
+  }
+
+  .mail {
+    padding-right: 20%;
+}
+
+.password {
+    padding-right:18%;
+    padding-top:1%
+}
+
+.imgLogo {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%; 
+}
+
+.btnLogin {
+    margin-left: 2%;
+    margin-bottom: 5%;
+}
+
+
+
