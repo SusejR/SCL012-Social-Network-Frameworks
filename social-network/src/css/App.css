@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("../img/fondo1.jPG");
+}
+
+ /*
+ 
+{posts && posts !== undefined ? posts.map((post, key)=>(
+  <div className="userPost">
+      <h4 key={key}>{post.data.post}</h4>
+      <button className="btn">Editar</button>
+      <button className="btn">Eliminar</button>
+  </div>
+
+)): null} 
+  */
